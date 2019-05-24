@@ -13,8 +13,8 @@ A few steps are required in order to be able to run the test:
 
  
 ## How to use it
-* Write your file under `__test__` folder
-* Write your code inside the `source` folder
+* Write your tests under the `__test__` folder
+* Write your code under the `source` folder
 * You can create as many subdirectories as you want both inside `__test__` and `source` folder  
 * In the console write `npm test` in order to run all the tests
 
