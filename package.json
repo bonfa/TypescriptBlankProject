@@ -3,7 +3,6 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "npm run shell",
     "test": "cd app/__test__ && NODE_ENV=test jest --no-cache",
     "build": "tsc",
     "lint:staged": "lint-staged && git add app"
